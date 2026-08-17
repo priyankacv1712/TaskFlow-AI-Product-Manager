@@ -1,0 +1,8 @@
+constraint_id,area,constraint,severity
+EC001,Backend,"Existing authentication API cannot be replaced during the current release cycle.",High
+EC002,Frontend,"Onboarding redesign must use the existing React component library.",Medium
+EC003,Engineering Capacity,"Maximum engineering capacity for onboarding work is 8 story points per sprint.",High
+EC004,Security,"Authentication and account verification steps cannot be removed.",Critical
+EC005,Data,"Existing user accounts must remain compatible with the redesigned onboarding flow.",Critical
+EC006,Release,"Major database schema changes are not permitted during the current release cycle.",High
+EC007,Accessibility,"New onboarding interfaces must support keyboard navigation and accessible labels.",High

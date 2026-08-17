@@ -1,0 +1,13 @@
+customer_id,feedback,rating
+C001,"The onboarding process is confusing and I don't know what to do first.",2
+C002,"The dashboard is easy to use and looks clean.",5
+C003,"Reports are difficult to find and the navigation is confusing.",2
+C004,"Please add dark mode.",4
+C005,"Inviting team members is confusing and takes too many steps.",2
+C006,"Analytics is useful but sometimes very slow.",3
+C007,"The onboarding tutorial needs to explain the setup process better.",2
+C008,"I would like integrations with more third-party applications.",3
+C009,"The dashboard gives me everything I need quickly.",5
+C010,"I cannot understand how to generate a monthly report.",2
+C011,"Please improve the mobile experience.",3
+C012,"Setting up my workspace took much longer than expected.",2

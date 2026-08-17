@@ -1,0 +1,8 @@
+feature,reach,impact,confidence,effort,evidence
+Improve Onboarding,10000,3,0.95,8,"Customer feedback reports confusing onboarding and analytics show only 58% retention."
+Improve Analytics Performance,3800,2,0.90,6,"Analytics has a performance score of 62 and customers report slow performance."
+Improve Reporting Experience,4200,2,0.85,5,"Customers struggle to find and generate reports."
+Expand Integrations,2500,2,0.75,7,"Customers request more third-party integrations and current adoption is only 25%."
+Improve Mobile Experience,2900,2,0.80,6,"Customers request mobile improvements and mobile retention is 59%."
+Add Dark Mode,1800,1,0.70,3,"Dark mode appears as a customer feature request."
+Simplify Team Invitations,5100,2,0.85,4,"Customers report that inviting team members requires too many steps."
